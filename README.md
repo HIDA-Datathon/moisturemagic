@@ -19,3 +19,8 @@ Notebooks:
 * 01_preprocessing.ipynb
 * 02_eda.ipynb
 * 03_analysis.ipynb 
+
+```
+NOTE: Notebok 03_analysis.ipynb (currently umap_soil_moisture-Copy3_preliminary_work.ipynb) is 
+in a preliminary state atm. We'll hopefully clean it up soon!
+```
